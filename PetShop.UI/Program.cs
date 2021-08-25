@@ -1,4 +1,7 @@
 
+using PetShop.Core.IRepositories;
+using PetShop.Core.Services;
+using PetShop.Domain.IServices;
 using PetShop.Infrastructure.Repositories;
 
 namespace PetShop.UI
